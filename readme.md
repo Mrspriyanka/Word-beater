@@ -6,4 +6,4 @@
 
 Run index.html in a browser.
 
-Try it - [WordBeater Game]
+Try it - [WordBeater Game](https://mrspriyanka.github.io/word-beater)
