@@ -4,6 +4,6 @@
 
 ## Use
 
-Run index.html in a browser
+Run index.html in a browser.
 
 Try it - [WordBeater Game]
